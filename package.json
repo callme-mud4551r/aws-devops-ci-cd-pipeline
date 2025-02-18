@@ -14,27 +14,9 @@
   "author": "",
   "type": "commonjs",
   "main": "index.js",
-  "scrip{
-  "name": "aws-devops-ci-cd-pipeline",
-  "version": "1.0.0",
-  "description": "Automated CI/CD pipeline using AWS DevOps tools",
-  "homepage": "https://github.com/callme-mud4551r/aws-devops-ci-cd-pipeline#rea>
-  "bugs": {
-    "url": "https://github.com/callme-mud4551r/aws-devops-ci-cd-pipeline/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/callme-mud4551r/aws-devops-ci-cd-pipeline.gi>
-  },
-  "license": "ISC",
-  "author": "",
-  "type": "commonjs",
-  "main": "index.js",
   "scripts": {
+    "build": "echo 'Build script running...'",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
-ts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
-}
+
